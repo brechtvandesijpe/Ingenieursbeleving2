@@ -10,6 +10,6 @@ Lopen met ZQSD, Rondkijken met I en O
 Shuffelen door de items met V, monsters slaan met U
 Pauzeren met P, afsluiten met de ESCAPE-knop
 
-========================================================
-                 WILL BE RELEASED SOON
-========================================================
+Nodig libraries: time, cProfile, pstats, serial, numpy, sdl2, sdl2.ext, winsound
+
+TO BE RELEASED SOON
